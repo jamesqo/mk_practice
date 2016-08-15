@@ -1,3 +1,3 @@
 # mk_practice
 
-Learning about Makefiles
+My first fully functional Makefile template. :)
